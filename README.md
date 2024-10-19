@@ -4,11 +4,11 @@ Key Results
 Public Score: 0.789 m
 
 Dependencies
-**GTSAM (Factor graph optimization library)
+1)GTSAM (Factor graph optimization library)
 Install and build GTSAM version 4.0.3:
 
-**MatRTKLIB (MATLAB wrapper for RTKLIB)
+2)MatRTKLIB (MATLAB wrapper for RTKLIB)
 
-**MatlabProgressBar
+3)MatlabProgressBar
 
 
